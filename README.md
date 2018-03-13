@@ -1,6 +1,6 @@
 # Python3
 
-## py3Bot
+## py bot
 
-Python 3 standard library. Never attacks the same square twice. 
-Simplified and partially plagiarized version of Christian's Python2 bot.
+Bot for battleship entellect challenge
+https://github.com/EntelectChallenge/2017-Battleships/blob/master/Sample%20Bots/Java/SampleBot/src/main/java/za/co/entelect/challenge/Bot.java
